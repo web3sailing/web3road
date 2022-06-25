@@ -1,0 +1,63 @@
+op
+https://tofunft.com/optimism
+https://quixotic.io/
+https://clipper.exchange/
+
+
+1、官方L1-op deposit eth（首选，备选桥）
+
+2、clipper/slingshot： swap eth/usdc eth/susd
+
+3、pika：dep-usdc swap eth 3～5x 多/空
+
+4、kwenta：dep- susd swap eth3～5空/多
+
+5、rubicon swap eth
+
+6、polynomial：dep-susdc/seth（ sling/ 1in/uni）
+
+7、uni： lp- eth/usdc -nft挂入交互quixotic
+
+8、其他：tokenset构建set，superfuild/sablier send资金
+
+9、资金退出桥（未发币） hop connect orbiter li bungee composable～～～ tips：尽量eth swap，op目前以衍生品为主，多id交互多空对冲平衡风，所有的都是未发币的协议，主要交互op+其生态协议
+
+1.https://app.rubicon.finance/trade
+
+2.https://clipper.exchange DEX
+
+3.https://app.slingshot.finance DEX
+
+4.https://www.pikaprotocol.com/ 合约
+
+5.https://www.polynomial.fi/
+
+6.https://kwenta.io/dashboard
+
+7.https://www.tokensets.com/
+
+8.app.umbra.cash 支付
+
+9.https://www.superfluid.finance/home 流支付
+
+10.https://sablier.finance/ 流支付
+
+11.https://quixotic.io/ NFT
+
+12.https://tofunft.com/optimism NFT
+
+13.https://app.orbiter.finance/ 跨链
+
+14.https://via.exchange/ 跨链
+
+15.https://mean.finance/ 跨链
+
+16.https://portr.xyz/ 跨链
+
+17.https://www.poly.network/#/ 跨链
+
+18.https://www.arrakis.finance/
+
+19.pegasus.finance
+
+20.https://www.layerswap.io/
